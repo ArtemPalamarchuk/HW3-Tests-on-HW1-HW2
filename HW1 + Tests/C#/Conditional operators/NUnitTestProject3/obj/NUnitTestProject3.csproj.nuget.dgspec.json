@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\NUnitTestProject3\\NUnitTestProject3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\NUnitTestProject3\\NUnitTestProject3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\NUnitTestProject3\\NUnitTestProject3.csproj",
+        "projectName": "NUnitTestProject3",
+        "projectPath": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\NUnitTestProject3\\NUnitTestProject3.csproj",
+        "packagesPath": "C:\\Users\\м\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\NUnitTestProject3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\м\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\Tests.csproj": {
+                "projectPath": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\м\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\м\\Desktop\\HW 3\\HW1 + Tests\\C#\\Conditional operators\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\м\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

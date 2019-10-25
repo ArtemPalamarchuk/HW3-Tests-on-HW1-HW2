@@ -1,0 +1,33 @@
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\source\repos\Tests\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\м\source\repos\Tests\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\м\source\repos\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\м\source\repos\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\м\source\repos\Tests\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\source\repos\Tests\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\Desktop\Новая папка\Tests\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\м\Desktop\Новая папка\Tests\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\м\Desktop\Новая папка\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\м\Desktop\Новая папка\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\м\Desktop\Новая папка\Tests\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\Desktop\Новая папка\Tests\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.exe
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.deps.json
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.json
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.runtimeconfig.dev.json
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\bin\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\obj\Debug\netcoreapp3.0\Tests.csprojAssemblyReference.cache
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfoInputs.cache
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\obj\Debug\netcoreapp3.0\Tests.AssemblyInfo.cs
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\obj\Debug\netcoreapp3.0\Tests.dll
+C:\Users\м\Desktop\HW 3\HW1 + Tests\C#\TestUnit1\Tests\obj\Debug\netcoreapp3.0\Tests.pdb
